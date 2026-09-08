@@ -102,5 +102,4 @@
 
 
 
-update this with all of my current skills
-if u have any doubts if u shud add then ask
+
