@@ -1,127 +1,240 @@
-# Hi 👋, I'm Shaina Gera
+# Hey, I'm Shaina Gera 👋
 
-<h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
+### Third-Year Computer Engineering Student | Full-Stack Engineer | AI/ML Developer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shainaa17&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Engineering undergraduate at Thapar Institute of Engineering & Technology
-- 💻 Full Stack Developer passionate about building impactful software
-- 🤖 Machine Learning enthusiast exploring real-world AI applications
-- 📊 Interested in data analysis, model building, and deployment
-- 🌱 Always learning, building, and experimenting with new technologies
-
----
-
-## 🧠 Frontend Development
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-</p>
-
----
-
-## 📱 Mobile Development
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-</p>
-
----
-
-## 🗄️ Database & Storage
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</p>
-
----
-
-## 💻 Programming Languages
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
-</p>
-
----
-
-## 🤖 AI & Machine Learning
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-</p>
-
----
-
-## 📊 Data Science & ML Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" width="40" height="40"/>
-</p>
-
----
-
-## 🎨 Styling & UI
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
-
----
-
-## 🛠️ Developer Tools & Version Control
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<!-- Add your actual profile links below -->
-
-<p align="left">
   <a href="https://github.com/Shainaa17">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Shainaa17-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/shaina-gera-a66822330/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+</p>
+
+<p align="center">
+  <b>🏆 JPMC Code for Good 2026 Winner</b>
+</p>
+
+I build software at the intersection of **full-stack engineering, backend systems, and applied AI/ML**. From developing AI-powered regulatory intelligence pipelines to working with enterprise integration workflows, I enjoy solving real-world problems through thoughtful engineering and practical experimentation.
+
+- 🎓 Third-year Computer Engineering undergraduate at **Thapar Institute of Engineering & Technology**
+- 🏆 Winner of **JPMorgan Chase & Co. Code for Good 2026**
+- 🤖 AI/ML Engineering Intern at **Kraftland Intelligence**
+- 🏭 IT Intern at **Tata Cummins**, working on Oracle ERP–CMES integration
+- 💡 Interested in backend engineering, intelligent systems, scalable applications, and applied machine learning
+- 🧩 Regularly exploring DSA, software architecture, APIs, and system design
+
+---
+
+## 🏆 Highlights & Experience
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏆 JPMC Code for Good '26</h3>
+      Winner of JPMorgan Chase & Co.'s Code for Good hackathon.
+    </td>
+    <td width="50%">
+      <h3>🤖 AI/ML Engineering Intern</h3>
+      Built a regulatory intelligence platform for CDSCO drug approvals using automated extraction, AI-powered enrichment, and structured reporting.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏭 Tata Cummins</h3>
+      Worked on enterprise integration workflows involving Oracle ERP, Cummins Manufacturing Execution System (CMES), and transaction synchronization.
+    </td>
+    <td width="50%">
+      <h3>💻 Full-Stack Development</h3>
+      Built web applications spanning frontend interfaces, backend APIs, authentication, databases, and application workflows.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+### 💊 CDSCO Regulatory Intelligence Platform
+**Python · Playwright · BeautifulSoup · Gemini · Tavily · PostgreSQL · Streamlit**
+
+- Automated the extraction of drug approval information from CDSCO sources.
+- Integrated LLM-powered enrichment and search-based research to help populate missing information.
+- Used PostgreSQL to store structured records and source references.
+- Developed a Streamlit dashboard and Excel reporting workflow for regulatory intelligence.
+
+### ⚖️ NexusLB — Reverse Proxy & Load Balancer
+**Networking · Backend Engineering · System Design**
+
+- Exploring reverse proxy architecture and request routing strategies.
+- Designed around health checks, service availability, routing, and operational monitoring.
+- Focused on understanding the engineering trade-offs behind reliable backend infrastructure.
+
+### 🗣️ SilentTalk — Sign Language to Speech
+**React · TensorFlow.js · Computer Vision**
+
+- Developing an application aimed at converting sign language gestures into speech.
+- Exploring browser-based machine learning and real-time gesture recognition workflows.
+- Combining an interactive frontend with an ML-powered accessibility use case.
+
+### 🔐 AuthFlow
+**MongoDB · Express.js · React · Node.js**
+
+- Full-stack authentication-focused application built with the MERN stack.
+- Explores frontend/backend integration and authentication workflows.
+
+### 🐛 Unstuck — Developer Debugging Assistant
+**Full-Stack Development · Developer Tools**
+
+- Project focused on helping developers work through coding and debugging problems.
+- Explores practical tooling for improving the developer workflow.
+
+---
+
+## 🧠 Technical Skills
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="42" height="42" alt="Kotlin"/>
+</p>
+
+`C` · `C++` · `Python` · `Java` · `JavaScript` · `TypeScript` · `Kotlin`
+
+### 🌐 Frontend & UI Engineering
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="42" height="42" alt="Three.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma"/>
+</p>
+
+`React Native` · `Tailwind CSS` · `Responsive UI` · `Component-Based Architecture`
+
+### ⚙️ Backend & API Engineering
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" height="42" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" height="42" alt="Spring"/>
+</p>
+
+- REST API design and integration
+- JWT-based authentication
+- WebSockets and real-time communication
+- Backend application development
+- API testing and debugging with Postman
+
+### 🗄️ Databases & Data Storage
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" height="42" alt="Firebase"/>
+</p>
+
+`MongoDB` · `PostgreSQL` · `MySQL` · `Firebase` · `Vector Databases` · `Data Modeling`
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
+</p>
+
+- Deep learning: PyTorch, TensorFlow/Keras
+- Computer vision and image processing: OpenCV
+- Classical machine learning: Scikit-learn
+- LLMs and Generative AI APIs
+- Prompt engineering and retrieval-augmented generation (RAG)
+- LangChain and Hugging Face
+- Vector search and embeddings
+- Model evaluation and explainability with SHAP
+- Numerical computing and data analysis with NumPy and Pandas
+
+### 📊 Data Engineering, Automation & Visualization
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="42" height="42" alt="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="42" height="42" alt="Plotly"/>
+</p>
+
+`NumPy` · `Pandas` · `Plotly` · `Streamlit` · `BeautifulSoup` · `Playwright` · `Selenium`
+
+- Web scraping and structured data extraction
+- Browser automation and end-to-end testing
+- Data cleaning, transformation, and visualization
+- Automated reporting and dashboard development
+
+### ☁️ Cloud, DevOps & Developer Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="42" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" height="42" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="42" height="42" alt="Vercel"/>
+</p>
+
+`Docker` · `Linux` · `Git` · `GitHub` · `AWS` · `Azure` · `Google Cloud` · `Vercel` · `Render` · `Netlify` · `Model Deployment`
+
+### 🧪 Software Engineering & Testing
+
+- Data structures and algorithms
+- Object-oriented programming
+- API testing with Postman
+- Browser automation and testing with Playwright and Selenium
+- Backend debugging and integration
+- Software architecture and system design fundamentals
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shainaa17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shainaa17&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shainaa17&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing software engineering, AI/ML, hackathons, open-source collaboration, and interesting engineering problems.
+
+<p align="center">
+  <a href="https://github.com/Shainaa17">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shaina-gera-a66822330/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building, learning, and engineering things that matter. 🚀</i>
 </p>
