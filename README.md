@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shainaa17&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -118,10 +118,10 @@
 <!-- Add your actual profile links below -->
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Shainaa17">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/shaina-gera-a66822330/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
